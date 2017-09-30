@@ -1,5 +1,5 @@
 body { 	
-	background-image:url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/Background.jpg);
+	background-image:url(images//Background.jpg);
 	margin-left:100px; 
 	font-family:Century Gothic,Arial,sans-serif;
 	font-size:small;
@@ -47,7 +47,7 @@ a:hover {
 
 div#header {
 	background:#000000;
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/header.jpg);
+	background-image: url(images//header.jpg);
 	background-repeat:no-repeat;
 	background-position:top center;
 	width:900px;
@@ -59,7 +59,7 @@ div#header {
 	}
 
 div#left {
-	background-image:url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/NavBackground.png);
+	background-image:url(images//NavBackground.png);
 	background-position:bottom left;
 	padding-left:25px;
 	padding-bottom:25px;
@@ -110,7 +110,7 @@ div#navigation ul {
 
 div#navigation li {
 	width:150px;
-	background-image:url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/navbutton.png);
+	background-image:url(images//navbutton.png);
 	background-position:bottom left;
 	background-repeat:no-repeat;
 }
@@ -135,7 +135,7 @@ div#navigation a:hover {
 
 div#background {
 	position:absolute;
-	background-image:url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/RightBackground.png);
+	background-image:url(images//RightBackground.png);
 	background-repeat:no-repeat;
 	background-position:bottom right;
 	width:270px;
@@ -166,40 +166,40 @@ div#right a {
 div#right span#artist a {
 	width:150px;
 	height:125px;
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/ArtHover.png);
+	background-image: url(images//ArtHover.png);
 	background-repeat:no-repeat;
 	background-position:center left;
 	padding-top:40px;
 }
 
 div#right span#artist a:hover {
-	background-image:url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/Rector.png)
+	background-image:url(images//Rector.png)
 	}
 
 div#right span#books a {
 	width:150px;
 	height:130px;
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/ReadingHover.png);
+	background-image: url(images//ReadingHover.png);
 	background-repeat:no-repeat;
 	background-position:center left;
 	padding-top:40px;
 }
 
 div#right span#books a:hover {
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/Reading.png);
+	background-image: url(images//Reading.png);
 	}
 
 div#right span#friday a {
 	width:145px;
 	height:125px;
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/FFhover.png);
+	background-image: url(images//FFhover.png);
 	background-repeat:no-repeat;
 	background-position:center right;
 	padding-top:40px;
 }
 
 div#right span#friday a:hover {
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/marchff.png)
+	background-image: url(images//marchff.png)
 	}
 	
 
@@ -218,7 +218,7 @@ h4#fourth {
 	float:left;
 	margin:5px;
 	margin-right:10px;
-	background-image: url(http://i669.photobucket.com/albums/vv59/asecord/CCGB%20Site%20Photos/FourthFriday.jpg);
+	background-image: url(images//FourthFriday.jpg);
 	background-position:center left;
 	background-repeat:no-repeat;
 	height:50px;
